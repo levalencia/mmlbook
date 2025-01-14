@@ -1,0 +1,6 @@
+numeric_column,date_column,category_column
+1,2021-01-01,A
+2,2021-01-02,B
+3,2021-01-03,A
+4,2021-01-04,B
+5,2021-01-05,A
