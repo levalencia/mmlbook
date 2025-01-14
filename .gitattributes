@@ -1,0 +1,5 @@
+Chapter12/data/IMDB-Dataset[[:space:]]full.csvgit filter=lfs diff=lfs merge=lfs -text
+lfs filter=lfs diff=lfs merge=lfs -text
+track filter=lfs diff=lfs merge=lfs -text
+Chapter10/data/cifar-10-python.tar.gz filter=lfs diff=lfs merge=lfs -text
+Chapter12/data/IMDB-Dataset[[:space:]]full.csv filter=lfs diff=lfs merge=lfs -text
