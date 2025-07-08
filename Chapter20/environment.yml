@@ -1,0 +1,17 @@
+
+name: pytorch-cpu-inference
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - pip
+  - pip:
+      # self-contained CPU wheels
+      - torch==2.3.0+cpu
+      - torchvision==0.18.0+cpu
+      - --extra-index-url https://download.pytorch.org/whl/cpu
+      # utilities
+      - numpy
+      - pillow
+      - inference-schema[numpy-support]
+      - azureml-defaults

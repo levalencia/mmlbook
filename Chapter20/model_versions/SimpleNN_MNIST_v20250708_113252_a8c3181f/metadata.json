@@ -1,0 +1,14 @@
+{
+  "model_name": "SimpleNN_MNIST",
+  "version": "20250708_113252",
+  "hash": "a8c3181f",
+  "created_at": "2025-07-08T11:32:52.766414",
+  "model_path": "model_versions/SimpleNN_MNIST_v20250708_113252_a8c3181f/model.pth",
+  "custom_metadata": {
+    "dataset": "MNIST",
+    "epochs": 3,
+    "accuracy": 0.9689,
+    "optimizer": "Adam",
+    "learning_rate": 0.001
+  }
+}
