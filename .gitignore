@@ -162,3 +162,9 @@ cython_debug/
 #.idea/
 "Chapter12/data/IMDB-Dataset full.csv" 
 "Chapter11/cnn_cifar10_solution/data/cifar-10-python.tar.gz" 
+
+# Large data files
+Chapter15/data/cifar-10-python.tar.gz
+data/IMDB-Datasetfull.csv
+*.tar.gz
+**/*-python.tar.gz
